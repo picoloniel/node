@@ -1,0 +1,2 @@
+http://cloud.beetech.cloudns.biz:50704/sub/suser
+http://spg.beetech.cloudns.biz:52871/sub/spguser
