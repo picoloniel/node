@@ -1,4 +1,0 @@
-http://spg.beetech.cloudns.biz:52871/sub/spguser
-http://cloud.beetech.cloudns.biz:50704/sub/suser
-https://raw.githubusercontent.com/picoloniel/node/main/hk.txt
-https://raw.githubusercontent.com/picoloniel/node/main/spg.txt
