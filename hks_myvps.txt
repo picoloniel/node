@@ -1,0 +1,3 @@
+vless://4a6adfc0-0406-409a-91ae-2b6d896e4540@hks.myvps.onflashdrive.app:443?security=tls&type=ws&path=/4a6adfc0&host=hks.myvps.onflashdrive.app&encryption=none#hks+web
+vless://aaf54d1b-081d-4488-9c04-91abd225c167@hks.myvps.onflashdrive.app:25126?security=tls&type=ws&path=/aaf54d1b&encryption=none#hks+vl+tls
+vless://87c25b73-9167-4a7f-9010-0b1c4b102195@hks.myvps.onflashdrive.app:25127?security=tls&type=quic&encryption=none#vl+quic
