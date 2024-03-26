@@ -1,10 +1,7 @@
-vless://edbe2342-a054-40df-98f2-1ea8644b3efd@aka.beetech.sbs:20220?security=tls&type=ws&path=/edbe2342&encryption=none#aka+vl+tls
-vless://eaec8c6f-7282-4b04-9d42-e0462850df60@yxip.beetech.cloudns.biz:2053?security=tls&sni=aka.beetech.sbs&type=ws&path=/edbe2342&host=aka.beetech.sbs&encryption=none#aka+vl+tls+yxip
-vmess://eyJhZGQiOiJha2EuYmVldGVjaC5zYnMiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOTAzN2M0ZGItYjFlZS00ZGM4LWI4MjMtMDBlOTMyMDZlNjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiLzkwMzdjNGRiIiwicG9ydCI6IjIwMjIyIiwicHMiOiJ2bSt3cyt0bHMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-trojan://tXd4zouxaG@yxip.beetech.cloudns.biz:2083?security=tls&sni=aka.beetech.sbs&fp=firefox&type=ws&path=/oj0gus7q&host=aka.beetech.sbs#tro+reality%20+tls+yxip
-vless://4ff67190-5284-4518-a55c-3791e05cc21a@aka.beetech.sbs:443?security=tls&type=ws&path=/4ff67190&encryption=none#vl+web
-vmess://eyJhZGQiOiJha2EuYmVldGVjaC5zYnMiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiM2RkMDYzN2EtYzBjMy00MWIxLWIyNDEtMjQ2ZjQwMjVmZGE1IiwibmV0Ijoid3MiLCJwYXRoIjoiLzNkZDA2MzdhIiwicG9ydCI6IjQ0MyIsInBzIjoidm0rd2ViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://58e1fb4f-799a-4082-89ce-b4e3792e31cf@yxip.beetech.cloudns.biz:2087?security=tls&sni=aka.beetech.sbs&type=ws&path=/58e1fb4f&host=aka.beetech.sbs&encryption=none#vl+ws+xtls
-vless://48b12884-08b6-4e63-94fc-fe03ac09ea1f@aka.beetech.sbs:20221?security=reality&sni=www.towngas.com&fp=firefox&pbk=GkGFZl9XZeWaenCROsecLR8eIf_km8e8fvO5p15xDyg&sid=b8e49d3e&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#vl+reality
-trojan://5YgEq48p7z@aka.beetech.sbs:20224?security=reality&sni=aka.beetech.sbs&fp=firefox&pbk=yN3uYVaZ6XPTroxXE2zmtm8_fp9UY9BOshCyCKuVlQc&sid=0159b268&spx=/&type=tcp#tro+reality
-vless://2a9447c8-8e69-4af2-8739-085d6df59220@aka.beetech.sbs:20227?security=tls&alpn=h2,http/1.1&type=quic&encryption=none#vl+quic-hgklrtj9
+ss://2022-blake3-aes-256-gcm:Ak8VswzgQwpM%2FYWiPWowy5HTyg82moz5FHP0hk6MVSg%3D%3A6X6ttQEtZaoEPOPHR6H06NzQZn8BLJXxkcc0h9O4cA4%3D@aka.beetech.sbs:17012#aka+SS-8mqsfz1x
+vless://5b1347a1-b27d-4116-98e3-5fcacb6e7ad5@aka.beetech.sbs:17013?security=tls&type=ws&path=/5b1347a1&encryption=none#aka+vl+ws+tls-kzmepn4x
+vless://c9957b08-e457-4c54-b4cd-097a3cc9d988@aka.beetech.sbs:17014?security=reality&sni=www.towngas.com&fp=random&pbk=-_LT2hzy2WhU_yCTTzLBRGMU8IeKeHjt3FpFLdL4qSI&sid=f0dabad0&spx=/&type=tcp&encryption=none#aka+reality-vvuj9dio
+trojan://DDSTWXAzyZ@aka.beetech.sbs:17015?security=tls&type=ws&path=/bybk9696#aka+tro-bybk9696
+vless://277d3d44-1c09-4606-86b8-387c3972c498@aka.beetech.sbs:17016?security=tls&alpn=h2,http/1.1&type=quic&encryption=none#aka+vl+quic+tls-x9d85adi
+vmess://eyJhZGQiOiJha2EuYmVldGVjaC5zYnMiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMzk4ZDY4MWYtODdmMC00MTI4LTllZDAtMjJmZjNhNmFhNTBjIiwibmV0Ijoid3MiLCJwYXRoIjoiLzM5OGQ2ODFmIiwicG9ydCI6IjE3MDE4IiwicHMiOiJha2Erd3MrdGxzLTdteDdwem96Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://ca62466e-a88e-471e-9bd3-92d576d52aa7@yxip.beetech.cloudns.biz:2052?security=&type=ws&path=/ca62466e&host=aka.beetech.sbs&encryption=none#aka+vl+yxip-z5vs4dhe
