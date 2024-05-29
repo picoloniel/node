@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpReHFLOUVJSFpPUnVxVEIwMTdOMTFXeGx5Tk01NGZHdDdIRmZCMWhmMzlzPQ==@cloud.beetech.cloudns.biz:50707#cloud+SS
-vless://1d2514ea-770c-4c83-e8ec-2c9d1b5350d9@cloud.beetech.cloudns.biz:50708?security=tls&type=ws&path=/vl50708&encryption=none#cloud+vl+ws
-vmess://eyJhZGQiOiJjbG91ZC5iZWV0ZWNoLmNsb3VkbnMuYml6IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjFkMjUxNGVhLTc3MGMtNGM4My1lOGVjLTJjOWQxYjUzNTBkOSIsIm5ldCI6IndzIiwicGF0aCI6Ii93bTUwNzA5IiwicG9ydCI6IjUwNzA5IiwicHMiOiJjbG91ZCt2bStXUyt0bHMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-trojan://ZIFNycLKUQ@cloud.beetech.cloudns.biz:50710?security=tls&type=ws&path=/tr52710#cloud+tro
-hysteria://cloud.beetech.cloudns.biz:50711?upmbps=100&downmbps=100&auth=ZIFNycLKUQ#cloud+hy
+ss://YWVzLTI1Ni1nY206Y2czRmRJVXdmaFY2VC8xTmYxVDVJWE8zcitPdCtlRGh5VDNtUzNaYlhVTT0=@jp-tokyo-oracle-dc8895.ip1.shop:50704#shadowsocks-50704
+vmess://eyJhZGQiOiJqcC10b2t5by1vcmFjbGUtZGM4ODk1LmlwMS5zaG9wIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY2ZmZhOGMwLTFjZGUtNDUwOC1kYzhiLTY2MDE2NTU2MWM0ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9qcC12bS01MDcwNSIsInBvcnQiOiI1MDcwNSIsInBzIjoianAtdm0tNTA3MDUiLCJzY3kiOiJhdXRvIiwic25pIjoiYmluZy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://pB4waA1DWE@jp-tokyo-oracle-dc8895.ip1.shop:50706?security=tls&sni=bing.com&allowInsecure=1&type=tcp#jp-tr-50706
+hysteria://jp-tokyo-oracle-dc8895.ip1.shop:50707?upmbps=100&downmbps=100&obfs=xplus&obfsParam=pB4waA1DWE&auth=pB4waA1DWE#jp-hy-50707
+vless://f6ffa8c0-1cde-4508-dc8b-660165561c4f@jp-tokyo-oracle-dc8895.ip1.shop:50708?security=tls&sni=bing.com&allowInsecure=1&type=ws&path=/jp-vl-50708&encryption=none#jp-vl-50708
