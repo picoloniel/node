@@ -1,4 +1,4 @@
-vless://22751091-6f18-4345-c793-1e580a134a37@aka.beetech.sbs:17013?security=tls&type=ws&path=/5b1347a1&encryption=none#vless-56085
-hysteria://aka.beetech.sbs:17014?upmbps=100&downmbps=100&auth=F5HuJad5Ev#hysteria-17014
-trojan://F5HuJad5Ev@aka.beetech.sbs:17015?security=tls&type=tcp#17015
-vmess://eyJhZGQiOiJha2EuYmVldGVjaC5zYnMiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMjI3NTEwOTEtNmYxOC00MzQ1LWM3OTMtMWU1ODBhMTM0YTM3IiwibmV0Ijoid3MiLCJwYXRoIjoiLzM5OGQ2ODFmIiwicG9ydCI6IjE3MDE4IiwicHMiOiIxNzAxOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://9b0ad7c3-a81f-4d71-b538-9a9dc17af642@aka.beetech.cloudns.biz:17015?security=tls&type=ws&path=/9b0ad7c3&encryption=none#vless17015-57itolnj
+vmess://eyJhZGQiOiJha2EuYmVldGVjaC5jbG91ZG5zLmJpeiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJhMGE0MjgyNy1lYmQwLTQzNDctODUzNi05NGE2MjY1NDVhMjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYTBhNDI4MjciLCJwb3J0IjoiMTcwMTYiLCJwcyI6InZtZXNzMTcwMTYtajZxaW9mcTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://uaTiycdyq1@aka.beetech.cloudns.biz:17017?security=tls&type=ws&path=/7yo0gwei#torjan17017-7yo0gwei
+ss://2022-blake3-aes-256-gcm:2%2FvlxcdnZ%2FF8BzqWuHtIt8HwUSHp9JUn41GRxMWzPZo%3D%3AbormbzNqhjB6PKsrZll9d9RTh5XSk9n3sKyjyso3DPM%3D@aka.beetech.cloudns.biz:17018#ss17018-mpurgifu
